@@ -39,23 +39,23 @@ Improved iteration with refined structure, better flow handling, and experimenta
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=falah99-cik&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falah99-cik&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fals-Code&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streaks  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=falah99-cik&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Fals-Code&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=falah99-cik&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=github-dark&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=falah99-cik&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=github-dark&hide_border=true" />
 </p>
 
 ## 💬 Motto  
