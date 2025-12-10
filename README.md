@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmad Mathlaul Falah 👋</h1>
+<h1 align="center">Hi, I'm Ahmad Mathlaul Falah </h1>
 
 <p align="center">
   <strong>Informatics Engineering Student • Web Developer • Backend Enthusiast</strong><br>
