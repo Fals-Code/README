@@ -14,7 +14,7 @@
 
 ## 🧩 About Me
 I'm an informatics engineering student focusing on backend development and system architecture.  
-I enjoy solving real-world problems with clean, structured, and scalable code—especially using Laravel.
+I enjoy solving real-world problems with clean, structured, and scalable code especially using Laravel.
 
 - 🎓 Student at Universitas Airlangga  
 - 🔥 Interested in backend engineering, APIs, database design  
