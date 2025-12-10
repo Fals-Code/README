@@ -5,6 +5,7 @@
   Passionate about building reliable, structured, and impactful digital solutions.
 </p>
 
+
 ## 🌐 Socials & Contact  
 <p align="left">
   <a href="mailto:ahmadmathlaulfalah14@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,30 +13,38 @@
   <a href="https://github.com/Fals-Code"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 🧩 About Me
+
+## 🧩 About Me  
 I'm an informatics engineering student focusing on backend development and system architecture.  
 I enjoy solving real-world problems with clean, structured, and scalable code especially using Laravel.
 
 - 🎓 Student at Universitas Airlangga  
 - 🔥 Interested in backend engineering, APIs, database design  
 - 💡 Constantly exploring modern PHP and Laravel ecosystem  
-- 🚀 Aspiring to become a Backend Engineer / CTO in the future
+- 🚀 Aspiring to become a Backend Engineer / CTO in the future  
 
-## 🛠 Tech Stack & Tools 
-### Languages & Frameworks
+
+## 🛠 Tech Stack & Tools  
+### **Languages & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js" />
 </p>
 
-### Tools & Technologies
+### **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,composer" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,composer" />
 </p>
 
+
 ## 📂 Featured Projects  
-### Proyek RSHP V1
+### 🔹 **Proyek RSHP**
+A Laravel-based application built with a modular structure, Blade templating, and clean architecture principles.  
+🔗 https://github.com/Fals-Code/Proyek_RSHP
+
+### 🔹 **Proyek RSHP V1**
 Improved iteration with refined structure, better flow handling, and experimentations for scalability.  
 🔗 https://github.com/Fals-Code/Proyek_RSHPV1
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -43,23 +52,30 @@ Improved iteration with refined structure, better flow handling, and experimenta
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fals-Code&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+
 ## 🔥 GitHub Streaks  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fals-Code&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=github-dark&hide_border=true" />
-</p>
 
 ## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fals-Code&theme=github-dark&hide_border=true" />
 </p>
+
+
+## 🎯 Current Focus  
+- Strengthening backend skills in Laravel  
+- Clean code & efficient architecture  
+- API development & database optimization  
+- Building more real-world projects  
+- Preparing a strong developer portfolio  
+
 
 ## 💬 Motto  
-“Good developers write code that works.  
-Great developers write code that lasts.”
+> **“Good developers write code that works.  
+Great developers write code that lasts.”**
+
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
