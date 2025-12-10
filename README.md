@@ -32,7 +32,7 @@ I enjoy solving real-world problems with clean, structured, and scalable code es
 
 ### **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,composer" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,composer" />
 </p>
 
 
